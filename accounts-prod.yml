@@ -1,0 +1,11 @@
+
+
+student:
+  name: "This is the student name prod profile"
+  details:
+    age: 21
+    height: 15
+  hobbies:
+    - "playing cricket"
+    - "Listening to Music"
+    - "Reading book"

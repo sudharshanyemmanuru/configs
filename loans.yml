@@ -1,0 +1,9 @@
+student:
+  name: "This is the student name from loans microservice in default profile"
+  details:
+    age: 21
+    height: 15
+  hobbies:
+    - "playing cricket"
+    - "Listening to Music"
+    - "Reading book"

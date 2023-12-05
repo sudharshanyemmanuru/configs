@@ -1,0 +1,9 @@
+student:
+  name: "This is the student name from cards microserive in prod env"
+  details:
+    age: 21
+    height: 15
+  hobbies:
+    - "playing cricket"
+    - "Listening to Music"
+    - "Reading book"
